@@ -1,0 +1,10 @@
+ROOT:
+      build/
+PLUGIN_LIBRARY:
+      libmyplugins.so
+engine_file_path:
+      best_uav.engine
+CONF_THRESH:
+      0.5
+IOU_THRESHOLD:
+      0.4
